@@ -1,5 +1,5 @@
 # Travelling-Salesman
-Representation:permutation Representation
+Representation:permutation Representation\\
 Recombination:Order crossover
 Recombination Probability:100%
 Mutation:Scramble
